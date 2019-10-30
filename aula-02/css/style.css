@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+nav{
+    background-color: brown;
+}
+
+header{
+    background-color: #c5c5c5;
+}
+
+h1{
+    color: black;
+    text-transform: uppercase;
+
+}
+
+ul{
+    list-style: none;
+
+}
